@@ -43,4 +43,5 @@ class CreateGalleryView(CreateView):
 #        return render(request, 'gallery/load_file.html',{'form':form})
 
 # Create your views here.
+#Вносим изменение в файл после создания первого commit - first
 
